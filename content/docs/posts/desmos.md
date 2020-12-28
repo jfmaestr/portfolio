@@ -10,7 +10,7 @@ weight: 1
 {{< html >}}
 <iframe
     src="//www.desmos.com/calculator/"
-    height="400"
+    height="1000"
     frameborder="0"
     marginwidth="0"
     marginheight="0"
