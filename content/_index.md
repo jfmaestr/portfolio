@@ -2,7 +2,7 @@
 title: Introduction
 type: docs
 ---
-# Hi, I'm Jacob Maestri. I'm a Teacher.
+# Hi, I'm Jacob Maestri.
 
 ## Who Am I?
 
