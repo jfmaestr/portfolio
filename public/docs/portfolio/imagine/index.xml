@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Maestri</title>
+    <link>https://jacobmaestri.com/docs/portfolio/imagine/</link>
+    <description>Recent content on Jacob Maestri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jacobmaestri.com/docs/portfolio/imagine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equality</title>
+      <link>https://jacobmaestri.com/docs/portfolio/imagine/equality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobmaestri.com/docs/portfolio/imagine/equality/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>Content Knowledge</title>
+      <link>https://jacobmaestri.com/docs/portfolio/imagine/contentknow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobmaestri.com/docs/portfolio/imagine/contentknow/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>Pedagogical Knowledge</title>
+      <link>https://jacobmaestri.com/docs/portfolio/imagine/pedagogyknow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobmaestri.com/docs/portfolio/imagine/pedagogyknow/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>Caring</title>
+      <link>https://jacobmaestri.com/docs/portfolio/imagine/caring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobmaestri.com/docs/portfolio/imagine/caring/</guid>
+      <description>hello world</description>
+    </item>
+    
+  </channel>
+</rss>
