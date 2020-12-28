@@ -14,7 +14,11 @@ I've taught since 2019 at [Byhalia High School](http://bhs.marshallcountysd.org/
 
 ## Teaching Things I'm Currently In Love With
 
-I'm always on the lookout for interesting ways to use technology for student engagement. My current favorites include: [Desmos](https://teacher.desmos.com/) (and their wonderfully crafted digital activities), [Gimkit](https://www.gimkit.com/) (their many game modes are relevant and exciting! Students are loving the "Among Us" version recently), [Quizizz](https://quizizz.com/) (a classroom review day staple), and [Nearpod](https://nearpod.com/) (wow, the pandemic has been terrible in many ways, but one bright side is I learned about Nearpod!)
+I'm always on the lookout for interesting ways to use technology for student engagement. My current favorites include:
+1. [Desmos](https://teacher.desmos.com/) (and their wonderfully crafted digital activities)
+2. [Gimkit](https://www.gimkit.com/) (their many game modes are relevant and exciting! Students are loving the "Among Us" version recently)
+3. [Quizizz](https://quizizz.com/) (a classroom review day staple)
+4. [Nearpod](https://nearpod.com/) (wow, the pandemic has been terrible in many ways, but one bright side is I learned about Nearpod!)
 
 ## My Education
 
