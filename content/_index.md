@@ -10,7 +10,7 @@ I'm a secondary mathematics teacher in Byhalia, MS with experience in Geometry a
 
 ## Experience
 
-I've taught since 2019 at [Byhalia High School](http://bhs.marshallcountysd.org/) in Marshall County, Mississippi. I currently teach Algebra I, but have experience with Geometry. I serve as the Math Department Chair and District Mentor Teacher. I'm currently working through [Mississippi Teacher Corps](https://www.mtc.olemiss.edu/) for a Master's of Art in Teaching (M.A.T) anticipated to be completed in May 2021.
+I've taught since 2019 at [Byhalia High School](http://bhs.marshallcountysd.org/) in Marshall County, Mississippi. I currently teach Algebra I, but have experience with Geometry. I serve as the Math Department Chair and a District Mentor Teacher. I'm currently working through [Mississippi Teacher Corps](https://www.mtc.olemiss.edu/) for a Master's of Art in Teaching (M.A.T) anticipated to be completed in May 2021.
 
 ## Teaching Things I'm Currently In Love With
 
