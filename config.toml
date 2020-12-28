@@ -1,0 +1,7 @@
+baseURL = "https://jacobmaestri.com"
+languageCode = "en-us"
+title = "Jacob Maestri"
+theme = "book"
+
+[params]
+  BookTheme = 'light'
