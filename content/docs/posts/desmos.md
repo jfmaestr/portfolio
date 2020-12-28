@@ -7,7 +7,7 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: true
 ---
-{{<html>}}
+{{< html >}}
 <iframe
     src="//www.desmos.com/calculator/"
     height="400"
@@ -18,4 +18,4 @@ weight: 1
     style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 20px; width: 100%;"
     allowfullscreen="true">
 </iframe>
-{{</html>}}
+{{< / html >}}
