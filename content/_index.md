@@ -6,7 +6,11 @@ type: docs
 
 ## Who Am I?
 
-I'm a secondary mathematics teacher in Byhalia, MS with experience in Geometry and Algebra I. I'm passionate about effective instruction and learning through the incorporation of technology and innovation to elevate student experiences. Along with math, I enjoy teaching the social and emotional curriculum to promote student’s human development. Organized. Professional. Collaborative.
+I'm a **secondary mathematics teacher** in Byhalia, MS with experience in Geometry and Algebra I. I'm passionate about effective instruction and learning through the incorporation of technology and innovation to elevate student experiences. Along with math, I enjoy teaching the social and emotional curriculum to promote student’s human development. **Organized. Professional. Collaborative.**
+
+## How To Use This Site
+
+This site lists my **professional portfolio** and my **curriculum** for Algebra I and Geometry aligned to Common Core standards. The portfolio outlines my skills as a teacher from many angles and encapsulates a lot of my experiences in a classroom. The curriculum listed is a long-term "work in progress" and will be several years in the making before it is a polished finished product.
 
 ## Experience
 
