@@ -28,4 +28,4 @@ I'm always on the lookout for interesting ways to use technology for student eng
 
 I graduated Magna Cum Laude in 2019 from the University of Arkansas [(woo pig!)](https://www.youtube.com/watch?v=hXlDOpr_fSk) with a B.S. in Math and additional major in History. I did a undergraduate [thesis](https://drive.google.com/file/d/1EqA9OO2-GjZU0YYOdGfEDJ156PI_XDMu/view?usp=sharing) in [Geometric Group Theory](https://en.wikipedia.org/wiki/Geometric_group_theory) under Dr. Matt Clay.
 
-
+{{< button href="mailto:jacobmaestri@gmail.com" >}} Contact Me {{< /button >}}
