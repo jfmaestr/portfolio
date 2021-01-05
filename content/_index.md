@@ -10,7 +10,7 @@ I'm a **secondary mathematics teacher** in Byhalia, MS with experience in Geomet
 
 ## How To Use This Site
 
-This site lists my **professional portfolio** and my **curriculum** for Algebra I and Geometry aligned to Common Core standards. The portfolio broadly outlines my skills as a teacher from many angles and encapsulates a lot of my experiences in a classroom. The curriculum listed is a long-term "work in progress" and will be several years in the making before it is a polished finished product.
+This site lists my **professional portfolio** and my **curriculum** for Algebra I and Geometry aligned to Common Core standards. The portfolio broadly outlines my skills as a teacher from many angles and encapsulates a lot of my experiences in a classroom. The curriculum listed is a long-term "work in progress" and will be several years in the making before it is a polished finished product with Algebra being the most immeadiate curriculum I'm working on. Geometry may be a far lost dream.
 
 ## Experience
 
