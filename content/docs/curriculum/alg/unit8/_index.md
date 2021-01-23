@@ -7,7 +7,9 @@ weight: 1
 bookCollapseSection: true
 # bookComments: true
 ---
-# Unit 1: Statistics (or What Happens When Things Aren't Perfect)
+# Unit 8: Statistics (or What Happens When Things Aren't Perfect)
+
+<div class="tenor-gif-embed" data-postid="4604337" data-share-method="host" data-width="75%" data-aspect-ratio="1.6711409395973154"><a href="https://tenor.com/view/perfect-sigourney-weaver-amazing-solid-great-gif-4604337">Perfect Sigourney Weaver GIF</a> from <a href="https://tenor.com/search/perfect-gifs">Perfect GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Overview
 Algebra is often focused on the perfect. Models fit perfectly with their verbal descriptions. Students quickly question why this happens so well. Statistics provides learning opportunities of dealing with imperfect data and drawing one best conclusion out of many possible. Students investigate many forms of collecting, organizing, and analyzing data sets in one or two variables.
@@ -32,7 +34,7 @@ Algebra is often focused on the perfect. Models fit perfectly with their verbal 
   - Students will draw conclusions about data sets from two way frequency tables.
     - **Essential Questions**:
       - What conclusions can I draw from data organized in a two way frequency tables?
-    - Standards: [S-ID.5](http://www.corestandards.org/Math/Content/HSS/ID/B/5/))
+    - Standards: [S-ID.5](http://www.corestandards.org/Math/Content/HSS/ID/B/5/)
 - **Scatter Plot and Lines of Best Fit**
   - Students will plot data sets on scatter plots.
   - Students will choose an appropriate model to match the scatter plot.
@@ -47,6 +49,7 @@ Algebra is often focused on the perfect. Models fit perfectly with their verbal 
     - Standards: [S-ID.6](http://www.corestandards.org/Math/Content/HSS/ID/B/6/), [S-ID.6.a](http://www.corestandards.org/Math/Content/HSS/ID/B/6/a/), [S-ID.6.b](http://www.corestandards.org/Math/Content/HSS/ID/B/6/b/), [S-ID.6.c](http://www.corestandards.org/Math/Content/HSS/ID/B/6/c/), [S-ID.7](http://www.corestandards.org/Math/Content/HSS/ID/C/7/), [S-ID.8](http://www.corestandards.org/Math/Content/HSS/ID/C/8/), [S-ID.9](http://www.corestandards.org/Math/Content/HSS/ID/C/9/)
 
 ## Vocabulary
+- **
 
 ## Lesson Structure and Objectives
 

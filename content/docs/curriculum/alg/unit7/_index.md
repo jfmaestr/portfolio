@@ -15,7 +15,7 @@ bookCollapseSection: true
 Students have learned skills regarding functions in individual context (linear, quadratic, exponential). This unit serves to engage students to compare and contrast the models already learned. Students will be able to create models when give a verbal description of a concrete application. By introducing piecewise functions, students are able to model more complex situations.
 
 ## Main Topics with Essential Questions
-- **Linear, Quadratic, or Exponential** (Lessons 1, 2, 3, 4):;
+- **Linear, Quadratic, or Exponential** (Lessons 1, 2, 3, 4):
   - Students will differentiate between function models when given their tables.
   - Students will compare and contrast the graphs of functions using their knowledge of the various models.
   - Students will interpret domain and range and draw inferences on how domain and range change with each model.

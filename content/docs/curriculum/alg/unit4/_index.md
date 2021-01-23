@@ -7,7 +7,7 @@ weight: 1
 bookCollapseSection: true
 # bookComments: true
 ---
-# Unit 1: Creating and Manipulating Expressions
+# Unit 4: Linear Functions (with Inequalities)
 
 ## Overview
 
