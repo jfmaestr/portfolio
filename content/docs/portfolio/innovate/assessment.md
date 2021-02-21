@@ -7,4 +7,12 @@ weight: 3
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+# Assessment
+
+## What's the Current Buying Rate?
+
+Evidence:
+
+1. Exit Tickets
+2. Quizzes
+3. Tests

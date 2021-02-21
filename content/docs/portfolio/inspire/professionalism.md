@@ -7,4 +7,9 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+# Professionalism
+
+## Do I Dress the Part?
+
+1. Emotional Maturity
+2. Give Each Student a Chance

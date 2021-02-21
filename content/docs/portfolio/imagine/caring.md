@@ -7,4 +7,12 @@ weight: 4
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+
+# Caring
+
+## Convince Yourself that Students Need the Car
+
+Evidence:
+
+1. Story about homework packets.
+2. Hall Conferences that worked!

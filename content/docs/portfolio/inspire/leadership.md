@@ -7,4 +7,11 @@ weight: 3
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+# Leadership
+
+## My Responsiblities Beyond the Dealership
+
+Evidence:
+1. Department Chair
+2. PD Leader
+3. Mentor Teacher (MTC and MCSD)

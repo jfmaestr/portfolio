@@ -7,4 +7,11 @@ weight: 2
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+# Excellence in Content Knowledge
+
+## You Need to Know a Lot about Cars
+
+Evidence:
+
+1. Inserts of Desmos Graphs
+2. Undergraduate Work

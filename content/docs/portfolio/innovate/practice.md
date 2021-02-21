@@ -7,4 +7,12 @@ weight: 2
 # bookCollapseSection: false
 # bookComments: true
 ---
-hello world
+# Practice
+
+## Does the Dealership Look Nice?
+
+Evidence:
+
+1. Upside Down Map
+2. Stations
+3. Mr. Maestri's spectacular students
