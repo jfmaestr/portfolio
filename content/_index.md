@@ -6,6 +6,8 @@ type: docs
 
 ## Who Am I?
 
+{{< button href="mailto:jacobmaestri@gmail.com" >}}Contact Me{{< /button >}}
+
 I'm a **secondary mathematics teacher** in Byhalia, MS with experience in Geometry and Algebra I. I'm passionate about effective instruction and learning through the incorporation of technology and innovation to elevate student experiences. Along with math, I enjoy teaching the social and emotional curriculum to promote student’s human development. **Organized. Professional. Collaborative.**
 
 ## How To Use This Site
@@ -27,3 +29,5 @@ I'm always on the lookout for interesting ways to use technology for student eng
 ## My Education
 
 I graduated Magna Cum Laude in 2019 from the University of Arkansas [(woo pig!)](https://www.youtube.com/watch?v=hXlDOpr_fSk) with a B.S. in Math and additional major in History. I did a undergraduate [thesis](https://drive.google.com/file/d/1EqA9OO2-GjZU0YYOdGfEDJ156PI_XDMu/view?usp=sharing) in [Geometric Group Theory](https://en.wikipedia.org/wiki/Geometric_group_theory) under Dr. Matt Clay.
+
+{{< button href="mailto:jacobmaestri@gmail.com" >}}Contact Me{{< /button >}}
