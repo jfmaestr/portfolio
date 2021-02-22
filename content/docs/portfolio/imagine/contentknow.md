@@ -15,7 +15,7 @@ If you are going to sell cars (let alone anything!), you need to know a lot abou
 
 We live in a world where saying "I just can't do math" is about as fashionable as it gets. I've even met math teachers who struggle with certain concepts and topics. Content knowledge is often neglected. Math is as simple as doing examples on the board and then monitoring students doing similar examples, right? **WRONG!**
 
-Most of my strides to better understand my content came through creating interactive graphs and activities through [Desmos](desmos.com/calculator) and their [Activity Builder](teacher.desmos.com) (more on Desmos in sections to come!)
+Most of my strides to better understand my content came through creating interactive graphs and activities through [Desmos](https://desmos.com/calculator) and their [Activity Builder](https://teacher.desmos.com) (more on Desmos in sections to come!)
 
 These graphs created interactive experiences for students. Here's an example I created. Your job is to drag the blue and orange points to match the graph to the red points.
 
