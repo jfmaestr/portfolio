@@ -3,5 +3,6 @@
 	url = https://github.com/alex-shpak/hugo-book
 
 [submodule "public"]
+	branch = master
 	path = public
 	url = https://github.com/jfmaestr/jfmaestr.github.io.git
